@@ -22,7 +22,7 @@
 
 ---
 - [حساب گیت هاب](https://github.com/masoudjafari78)
-- [آدرس رزومه](https://masoudjfr.github.io/Resume/)
+- [آدرس رزومه](https://github.com/masoudjafari78/resume/blob/gh-pages/index.md)
 - [SOP](https://github.com/masoudjafari78/sop/blob/gh-pages/index.md)
 
 
