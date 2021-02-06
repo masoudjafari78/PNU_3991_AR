@@ -21,7 +21,7 @@
 ### مسعود جعفری
 
 ---
-- [حساب گیت هاب](https://github.com/masoudjfr)
+- [حساب گیت هاب](https://github.com/masoudjafari78)
 - [آدرس رزومه](https://masoudjfr.github.io/Resume/)
 - [SOP](https://masoudjfr.github.io/SOP/)
 
